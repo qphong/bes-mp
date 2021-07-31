@@ -1,5 +1,19 @@
 # An Information-Theoretic Framework for Unifying Active Learning Problems
 
+This is the source code for the paper: An Information-Theoretic Framework for Unifying Active Learning Problems, published at AAAI 2021. We address 3 problems:
+
+* Level Set Estimation
+
+![level-set-estimation](https://github.com/qphong/bes-mp/blob/main/lse_count.gif)
+
+* Bayesian Optimization
+
+![bayesian-optimization](https://github.com/qphong/bes-mp/blob/main/bo_count.gif)
+
+* Implicit Level Set Estimation
+
+![implicit-lse](https://github.com/qphong/bes-mp/blob/main/ilse_mnes3_count.gif)
+
 ## Prerequisites
 The dependencies include:
 
